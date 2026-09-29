@@ -1,0 +1,8 @@
+analytics_area,metric,value,unit
+Data Quality,Validation Rate,0.0,percent
+Standardization,Standardization Rate,100.0,percent
+National Master,National Code Coverage,100.0,percent
+Review Workflow,Review Completion Rate,0.0,percent
+Migration,Migration Readiness Rate,10.0,percent
+Duplicates,Exact Duplicate Pairs,0.0,records
+Duplicates,Technical Conflicts,3150.0,records

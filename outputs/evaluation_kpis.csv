@@ -1,0 +1,2 @@
+total_candidate_pairs,match_count,review_count,no_match_count,match_rate,review_rate,no_match_rate,average_confidence,technical_conflict_count,technical_conflict_rate,ambiguous_candidate_count,ambiguous_candidate_rate
+8400,420,3930,4050,5.0,46.79,48.21,0.5951,1800,21.43,0,0.0

@@ -1,0 +1,12 @@
+check,status,details,severity
+Required columns,PASS,All required columns are present.,CRITICAL
+Duplicate material IDs,PASS,0 duplicate material IDs found.,HIGH
+Missing values: material_id,PASS,0 missing or blank values found.,MEDIUM
+Missing values: material_description,PASS,0 missing or blank values found.,MEDIUM
+Missing values: material_group,PASS,0 missing or blank values found.,MEDIUM
+Missing values: unit_of_measure,PASS,0 missing or blank values found.,MEDIUM
+Invalid units of measure,PASS,0 invalid units of measure found.,MEDIUM
+Material ID format,PASS,0 material IDs contain unexpected characters.,MEDIUM
+Missing CPSE,PASS,0 missing CPSE values found.,MEDIUM
+Missing plant,PASS,0 missing plant values found.,MEDIUM
+Empty material descriptions,PASS,0 empty material descriptions found.,HIGH

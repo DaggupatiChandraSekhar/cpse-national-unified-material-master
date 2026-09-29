@@ -1,0 +1,5 @@
+duplicate_type,recommended_action,duplicate_confidence_band,review_priority,technical_conflict,pair_count
+POTENTIAL_MATCH,MANUAL_REVIEW,MEDIUM,MEDIUM,False,3930
+NO_MATCH,NO_ACTION,LOW,LOW,True,3150
+NO_MATCH,NO_ACTION,LOW,LOW,False,900
+FUNCTIONALLY_EQUIVALENT,HARMONIZE,HIGH,LOW,False,420

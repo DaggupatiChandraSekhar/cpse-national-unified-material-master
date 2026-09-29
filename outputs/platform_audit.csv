@@ -1,0 +1,2 @@
+audit_id,timestamp,event_type,actor,entity_type,entity_id,details,previous_hash,event_hash
+AUD-20260929211907430384,2026-09-29T21:19:07.424005,STANDARDIZATION_RECOMMENDATIONS_GENERATED,system,material_batch,300,rule-assisted baseline,GENESIS,39c0c455663111cd18d37f37522fffd03d1fd08477d132c8d7a0eabc19ef5ed0

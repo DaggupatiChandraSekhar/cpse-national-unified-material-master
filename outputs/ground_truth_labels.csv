@@ -1,0 +1,1 @@
+ground_truth_id,material_id_a,material_id_b,ai_prediction,ai_confidence,confidence_band,candidate_rank,confidence_gap,technical_conflict_flag,technical_conflict_severity,model_version,ground_truth_label,reviewer_name,review_status,review_date,review_comments,evidence_reference

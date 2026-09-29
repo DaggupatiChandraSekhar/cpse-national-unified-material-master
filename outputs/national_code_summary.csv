@@ -1,0 +1,6 @@
+national_material_group,national_code_status,national_code_generation_status,material_count,national_code_prefix
+BEARINGS,ACTIVE,GENERATED,60,BRG
+ELECTRICAL,ACTIVE,GENERATED,60,ELC
+FASTENERS,ACTIVE,GENERATED,90,FST
+LUBRICANTS,ACTIVE,GENERATED,60,LUB
+SAFETY_ITEMS,ACTIVE,GENERATED,30,SFT
